@@ -31,7 +31,7 @@ A basic shooter game using the PyGame library. This is a game purely created for
 - Lives System using collision between enemies and players
 - Make the shop button use events rather than checking mouse pos and if it's clicked
 ```
-###Work in Progress
+### Work in Progress
 
 ```
 - Shop system (Currently clicking shop pauses the game as intended, however nothing yet had been added to it)
